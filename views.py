@@ -4,3 +4,6 @@ def handleLogin():
 def getProduct(n,m):
     print(str(n*m))
 
+def getSum(n,m):
+    print(str(n+m))
+
