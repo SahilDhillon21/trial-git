@@ -7,3 +7,6 @@ def getProduct(n,m):
 def getSum(n,m):
     print(str(n+m))
 
+def getDiff(n,m):
+    print(str(m-n))
+
