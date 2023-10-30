@@ -10,6 +10,10 @@ def getSum(n,m):
 def getDiff(n,m):
     print(str(m-n))
 
+# Division function
 def getDivision(m,n):
     print(str(m/n))
+
+def greet(name):
+    print("Hello "+name+"!")
 
