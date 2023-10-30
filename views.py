@@ -4,17 +4,6 @@ def handleLogin():
 def getProduct(n,m):
     return n*m
 
-def getSum(n,m):
-    print(str(n+m))
 
-def getDiff(n,m):
-    print(str(m-n))
-
-# Division function
-def getDivision(m,n):
-    print(str(m/n))
-
-def greet(name):
-    print("Hello "+name+"!")
     
 
