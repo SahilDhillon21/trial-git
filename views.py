@@ -19,3 +19,6 @@ def sayName(name):
 
 def divide(a,b):
     return a/b
+
+def greet(name):
+    print("Welcome "+name+"!")
