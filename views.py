@@ -2,7 +2,7 @@ def handleLogin():
     print("Login complete")
 
 def getProduct(n,m):
-    print(str(n*m))
+    return n*m
 
 def getSum(n,m):
     print(str(n+m))
