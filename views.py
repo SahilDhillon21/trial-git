@@ -2,7 +2,7 @@ def handleLogin():
     print("Login complete")
 
 def greet(name):
-    print("Hello, "+name+"!")
+    print("Welcome to the math library, "+name)
 
 def add(a,b):
     return a+b
