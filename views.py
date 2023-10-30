@@ -16,4 +16,5 @@ def getDivision(m,n):
 
 def greet(name):
     print("Hello "+name+"!")
+    
 
