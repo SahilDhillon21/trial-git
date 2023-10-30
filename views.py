@@ -13,6 +13,9 @@ def multiply(a,b):
 def greet(name):
     print("hello, "+name+"!")
 
+def sayName(name):
+    print(name)
+
 
 def divide(a,b):
     return a/b
